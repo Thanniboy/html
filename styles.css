@@ -177,6 +177,10 @@ article h3, h4, p {
   text-align: center;
 }
 
+article h3 {
+  padding-bottom: 15px;
+}
+
 .section-center {
   width: 90vw;
   margin: 0 auto;

@@ -408,6 +408,7 @@ Burger Promotions
   width: 60vw;
   margin: 10rem auto;
   max-width: 1170px;
+  margin-bottom: 0;
 }
 main {
   min-height: 100vh;
